@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/java/com/ibm/travelbookingportlet/vo
+END
+DestinationDetailsBookingVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/java/com/ibm/travelbookingportlet/vo/DestinationDetailsBookingVO.java
+END
+PassengersDetailsVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/java/com/ibm/travelbookingportlet/vo/PassengersDetailsVO.java
+END
+TripInclusionsVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/java/com/ibm/travelbookingportlet/vo/TripInclusionsVO.java
+END
+MainDestinationVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/java/com/ibm/travelbookingportlet/vo/MainDestinationVO.java
+END
+HotelInfoVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/java/com/ibm/travelbookingportlet/vo/HotelInfoVO.java
+END
+ItenaryInfoVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/java/com/ibm/travelbookingportlet/vo/ItenaryInfoVO.java
+END
+FlightInfoVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/java/com/ibm/travelbookingportlet/vo/FlightInfoVO.java
+END

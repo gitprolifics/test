@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/jsp
+END
+destinations.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/jsp/destinations.jsp
+END
+maindestination.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/jsp/maindestination.jsp
+END
+confirmation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/jsp/confirmation.jsp
+END
+destinationsdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/jsp/destinationsdetails.jsp
+END
+passengerdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/jsp/passengerdetails.jsp
+END
+destinationdetailsbooking.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/jsp/destinationdetailsbooking.jsp
+END
+confirmdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/jsp/confirmdetails.jsp
+END

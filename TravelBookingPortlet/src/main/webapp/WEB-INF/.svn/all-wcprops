@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF
+END
+ibm-web-ext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/ibm-web-ext.xml
+END
+ibm-web-bnd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/ibm-web-bnd.xml
+END
+TravelBookingPortlet-portlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/TravelBookingPortlet-portlet.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/applicationContext.xml
+END
+portlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/portlet.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IBMinternal_POC/!svn/ver/210/trunk/backup_12-19-2014/TravelBookingPortlet/src/main/webapp/WEB-INF/web.xml
+END

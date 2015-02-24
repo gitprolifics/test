@@ -1,0 +1,8 @@
+# en Resource Bundle
+#
+# filename: TravelBookingPortletResource_en.properties
+# Portlet Info resource bundle example
+javax.portlet.title=TravelBookingPortlet
+javax.portlet.short-title=TravelBookingPortlet
+javax.portlet.keywords=TravelBookingPortlet
+
